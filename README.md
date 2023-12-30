@@ -1,4 +1,4 @@
-# COCOTB-SDIO_HOST_CONTROLLER
+# COCOTB-SDIO_PROTOCOL
 # SDIO Regiter Information
 
 The following table provides the register definitions for the hardware module. Each register is identified by a symbolic name along with its corresponding 5-bit address.
